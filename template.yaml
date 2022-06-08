@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-java-camel-grpc
   title: Java Apache Camel gRPC API
-  description: 
+  description: Cria um microserviço com exposição gRPCusando Java e Apache Camel framework
   tags:
     - java
     - grpc
     - springboot
     - api
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: service
   parameters:
     - title: Provide some simple information
